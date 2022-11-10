@@ -53,6 +53,9 @@ article {
     background-size: auto, auto;
     border-radius: 22px;
     padding-right: 97px;
+    -webkit-box-shadow: 0px 6px 25px 20px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 6px 25px 20px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 6px 25px 20px rgba(34, 60, 80, 0.2);
 }
 
 article::before {
